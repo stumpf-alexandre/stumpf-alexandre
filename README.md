@@ -5,6 +5,13 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AlexandreStumpf)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:portfolio.alexandrestumpf@gmail.com?)
 
+<div>
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=ellen2121&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELLEN2121&layout=compact&langs_count=7&theme=react" />
+
+  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+</div>
+</br>
 
 ![Alexandre Stumpf's GitHub stats](https://github-readme-stats.vercel.app/api?username=stumpf-alexandre&show_icons=true&theme=dracula)
 
