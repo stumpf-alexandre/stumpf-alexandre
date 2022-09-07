@@ -6,17 +6,10 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:portfolio.alexandrestumpf@gmail.com?)
 
 <div>
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=ellen2121&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELLEN2121&layout=compact&langs_count=7&theme=react" />
-
-  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=stumpf-alexandre&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stumpf-alexandre&layout=compact&langs_count=7&theme=react" />
 </div>
 </br>
-
-![Alexandre Stumpf's GitHub stats](https://github-readme-stats.vercel.app/api?username=stumpf-alexandre&show_icons=true&theme=dracula)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stumpf-alexandre&langs_count=8)](https://github.com/stumpf-alexandre/github-readme-stats)
 
 
 ### Tecnologias usadas!
@@ -40,6 +33,9 @@
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </div><br/>
+
+![Snake animation](https://github.com/stumpf-alexandre/stumpf-alexandre/blob/output/github-contribution-grid-snake.svg)
+
 
 Criativo, proativo e de fácil relacionamento, com habilidades para priorizar grandes volumes de trabalho com a equipe. Busco uma oportunidade de trabalho para colocar meus conhecimentos em prática. 
 Participo ativamente de bootcamps ministrados pela DIO.
