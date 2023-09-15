@@ -34,7 +34,7 @@
     <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </div><br/>
 
-![Snake animation](https://raw.github.com/stumpf-alexandre/stumpf-alexandre/output/github-contribution-grid-snake.svg)
+![](https://raw.github.com/stumpf-alexandre/stumpf-alexandre/output/github-contribution-grid-snake.svg)
 
 
 Criativo, proativo e de fácil relacionamento, com habilidades para priorizar grandes volumes de trabalho com a equipe. Busco uma oportunidade de trabalho para colocar meus conhecimentos em prática. 
