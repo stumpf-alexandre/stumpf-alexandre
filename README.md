@@ -42,8 +42,3 @@
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </div><br/>
-
-![Snake animation](https://github.com/stumpf-alexandre/stumpf-alexandre/blob/output/github-contribution-grid-snake.svg)
-
-Criativo, proativo e de fácil relacionamento, com habilidades para priorizar grandes volumes de trabalho com a equipe. Busco uma oportunidade de trabalho para colocar meus conhecimentos em prática. 
-Participo ativamente de bootcamps ministrados pela DIO.
