@@ -2,6 +2,8 @@
 
 ## Olá! eu sou Alexandre Stumpf 👋 e este é meu perfil
 
+## Minhas Soft Skills
+
 ### Produtivo, comunicativo, sociável, mente aberta, trabalho bem em equipe, priorizo a entrega das métas propostas e inovo sempre que possível.
 
 ### Procuro continuamente adquirir conhecimentos em novas linguagens de programação para me manter atualizado e competitivo no mercado de trabalho.
@@ -23,7 +25,7 @@
 </br>
 
 
-### Tecnologias usadas!
+### Hard Skills usadas!
 
 <div style="display: inline_block" align="center"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
