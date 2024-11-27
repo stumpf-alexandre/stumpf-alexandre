@@ -1,6 +1,6 @@
 #
 
-## Olá! eu sou o Alexandre Stumpf 👋
+## Olá! eu sou Alexandre Stumpf 👋 e este é meu perfil
 
 ### Produtivo, comunicativo, sociável, mente aberta, trabalho bem em equipe, priorizo a entrega das métas propostas e inovo sempre que possível.
 
@@ -16,7 +16,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alexandrestumpf22)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:portfolio.alexandrestumpf@gmail.com?)
 
-<div>
+<div align="center">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=stumpf-alexandre&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stumpf-alexandre&layout=compact&langs_count=7&theme=react" />
 </div>
