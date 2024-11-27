@@ -1,10 +1,10 @@
-### Olá! eu sou o Alexandre Stumpf 👋
+## Olá! eu sou o Alexandre Stumpf 👋
 
-## Produtivo, comunicativo, sociável, mente aberta, trabalho bem em equipe, priorizo a entrega das métas propostas e inovo sempre que possível.
+### Produtivo, comunicativo, sociável, mente aberta, trabalho bem em equipe, priorizo a entrega das métas propostas e inovo sempre que possível.
 
-## Procuro continuamente adquirir conhecimentos em novas linguagens de programação para me manter atualizado e competitivo no mercado de trabalho.
+### Procuro continuamente adquirir conhecimentos em novas linguagens de programação para me manter atualizado e competitivo no mercado de trabalho.
 
-## Busco uma oportunidade de migrar de carreira para a área de técnologia, para assim por em pratica todo o meu conhecimento e poder crescer junto com a empresa.
+### Busco uma oportunidade de migrar de carreira para a área de técnologia, para assim por em pratica todo o meu conhecimento e poder crescer junto com a empresa.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandrestumpf22)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/alexandrestumpf22)
