@@ -2,7 +2,7 @@
 
 ## Olá! eu sou Alexandre Stumpf 👋 e este é meu perfil
 
-## Minhas Soft Skills
+### Minhas Soft Skills
 
 ### Produtivo, comunicativo, sociável, mente aberta, trabalho bem em equipe, priorizo a entrega das métas propostas e inovo sempre que possível.
 
@@ -12,20 +12,25 @@
 
 #
 
+### Conecte-se comigo!
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandrestumpf22)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/alexandrestumpf22)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alexandrestumpf22)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alexandrestumpf22)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:portfolio.alexandrestumpf@gmail.com?)
 
+#
+
+</br>
 <div align="center">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=stumpf-alexandre&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stumpf-alexandre&layout=compact&langs_count=7&theme=react" />
 </div>
 </br>
 
-
-### Hard Skills usadas!
+#
+### Hard Skills Usadas!
 
 <div style="display: inline_block" align="center"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -48,6 +53,8 @@
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </div><br/>
+
+#
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stumpf-alexandre/stumpf-alexandre/output/github-contribution-grid-snake-dark.svg">
