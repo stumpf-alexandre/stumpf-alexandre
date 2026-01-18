@@ -25,7 +25,7 @@
   </a>
 
   <!-- Telegram -->
-  <a href="https://t.me/alexandrestumpfdeveloper" target="_blank">
+  <a href="[https://t.me/alexandrestumpfdeveloper](https://t.me/alexandrestumpfdeveloper)" target="_blank">
     <img src="https://img.shields.io" alt=" Icone Telegram"/>
   </a>
 
