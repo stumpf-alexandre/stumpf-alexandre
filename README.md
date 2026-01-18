@@ -14,37 +14,6 @@
 
 ### Conecte-se comigo!
 
-  <!-- LinkedIn -->
-  <a href="[https://www.linkedin.com](https://www.linkedin.com/in/alexandrestumpfdeveloper/)" target="_blank">
-    <img src="https://img.shields.io" alt="Icone LinkedIn"/>
-  </a>
-
-  <!-- E-mail -->
-  <a href="mailto:seu-email@gmail.com">
-    <img src="https://img.shields.io" alt="Icone Email"/>
-  </a>
-
-  <!-- Telegram -->
-  <a href="[https://t.me/alexandrestumpfdeveloper](https://t.me/alexandrestumpfdeveloper)" target="_blank">
-    <img src="https://img.shields.io" alt=" Icone Telegram"/>
-  </a>
-
-  <!-- Facebook -->
-  <a href="[https://www.facebook.com](https://www.facebook.com/alexandrestumpfdeveloper/)" target="_blank">
-    <img src="https://img.shields.io" alt="Icone Facebook"/>
-  </a>
-  
-  <!-- Instagram -->
-  <a href="[https://www.instagram.com](https://www.instagram.com/alexandrestumpfdeveloper/)" target="_blank">
-    <img src="https://img.shields.io" alt="Icone Instagram"/>
-  </a>
-  
-  
-
-  
-  
-  
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandrestumpfdeveloper)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/alexandrestumpfdeveloper)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alexandrestumpfdeveloper)
