@@ -1,4 +1,4 @@
-<img src="baner.webp" width = "35%" align = "right">
+# <img src="baner.webp" width = "35%" align = "right">
 
 # Olá, bom te ver por aqui!
 Sou programador e adoro tecnologia. Procuro continuamente adquirir conhecimentos em novas linguagens de programação para me manter atualizado e competitivo no mercado de trabalho.
@@ -7,11 +7,7 @@ Sou programador e adoro tecnologia. Procuro continuamente adquirir conhecimentos
 
 ### Produtivo, comunicativo, sociável, mente aberta, trabalho bem em equipe, priorizo a entrega das métas propostas e inovo sempre que possível.
 
-### 
-
 ### Busco uma oportunidade de migrar de carreira para a área de técnologia, para assim por em pratica todo o meu conhecimento e poder crescer junto com a empresa.
-
-#
 
 ### Conecte-se comigo!
 
