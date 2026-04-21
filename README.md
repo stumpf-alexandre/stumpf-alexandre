@@ -11,7 +11,7 @@
 
 ### Conecte-se comigo!
 
-[![Portfólio](https://img.shields.io/badge/Portfolio-3a75b9?style=for-the-badge&logo=portfolio&logoColor=white)](https://stumpf-alexandre.github.io/portfolio/)
+[![Portfólio](https://img.shields.io/badge/Portfolio-60b4db?style=for-the-badge&logo=portfolio&logoColor=white)](https://stumpf-alexandre.github.io/portfolio/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandrestumpfdeveloper)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/alexandrestumpfdeveloper)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alexandrestumpfdeveloper)
