@@ -1,8 +1,6 @@
-<img src="baner.webp" width = "100%">
+<img src="baner.webp" width = "325px" align = "right">
 
-#
-
-## Olá! eu sou Alexandre Stumpf 👋 e este é meu perfil
+# Olá, sejam bem vindos ao meu perfil do GitHub!
 
 ### Minhas Soft Skills
 
