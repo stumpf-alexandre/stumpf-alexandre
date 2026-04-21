@@ -2,12 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Parkinsans&weight=500&pause=500&color=fff&size=30&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Alexandre+Stumpf+👋;+Sou+Formado+Em+Alálise+e+Desenvolvimento+de+Sistemas+👩‍💻;+em+Constante+Evolução+Tecnológica.📖;Sejam+Bem+Vindos!+😉)](https://git.io/typing-svg)
 
+#
 
-## Sou:
+### Sou:
 
 ### Produtivo, comunicativo, sociável, mente aberta, trabalho bem em equipe, priorizo a entrega das métas propostas e inovo sempre que possível.
 
 ### Busco uma oportunidade de migrar de carreira para a área de técnologia, para assim por em pratica todo o meu conhecimento e poder crescer junto com a empresa.
+
+#
 
 ### Conecte-se comigo!
 
