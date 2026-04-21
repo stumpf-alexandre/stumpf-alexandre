@@ -1,12 +1,9 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Parkinsans&weight=500&pause=500&color=fff&size=30&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Alexandre+Stumpf+👋;+Sou+Formado+Em+Alálise+e+Desenvolvimento+de+Sistemas+👩‍💻;+Em+Constante+Evolução+Tecnológica.📖;Sejam+Bem+Vindos!+😉)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Parkinsans&weight=500&pause=500&color=fff&size=30&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Alexandre+Stumpf+👋;+Sou+Formado+Em+Alálise+e+Desenvolvimento+de+Sistemas+👩‍💻;+em+Constante+Evolução+Tecnológica.📖;Sejam+Bem+Vindos!+😉)](https://git.io/typing-svg)
 
-## Olá, bom te ver por aqui!
-## Sou programador e adoro tecnologia. Procuro continuamente adquirir conhecimentos em novas linguagens de programação para me manter atualizado e competitivo no mercado de trabalho.
-#
 
-### Minhas Soft Skills
+## Sou:
 
 ### Produtivo, comunicativo, sociável, mente aberta, trabalho bem em equipe, priorizo a entrega das métas propostas e inovo sempre que possível.
 
@@ -14,6 +11,7 @@
 
 ### Conecte-se comigo!
 
+[![Portfólio](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=portfolio&logoColor=white)](https://stumpf-alexandre.github.io/portfolio/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandrestumpfdeveloper)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/alexandrestumpfdeveloper)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alexandrestumpfdeveloper)
@@ -30,6 +28,7 @@
 </br>
 
 #
+
 ### Hard Skills Usadas!
 
 <div style=”display:flex;justify-content:space-between;align-items:center;">
