@@ -1,5 +1,7 @@
 <img src="baner.webp" width = "35%" align = "right">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Parkinsans&weight=500&pause=500&color=fff&size=30&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Alexandre+Stumpf+❤️;+Sou+Formado+Em+Alálise+e+Desenvolvimento+de+Sistemas+👩‍💻;+Atuo+como+Instrutora+de+Desenvolvimento+Web+FullStack👩‍💻;Sejam+Bem+Vindos!+😊)](https://git.io/typing-svg)
+
 ## Olá, bom te ver por aqui!
 ## Sou programador e adoro tecnologia. Procuro continuamente adquirir conhecimentos em novas linguagens de programação para me manter atualizado e competitivo no mercado de trabalho.
 #
@@ -34,10 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" height="30" alt="less logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
   <img width="15" />
