@@ -1,4 +1,4 @@
-<img src="baner.webp" width = "325px">
+<img src="baner.webp" width = "100%">
 
 #
 
