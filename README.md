@@ -1,12 +1,13 @@
 <img src="baner.webp" width = "325px" align = "right">
 
-# Olá, bom te ver!
+# Olá, bom te ver por aqui!
+Sou programador e adoro tecnologia. Procuro continuamente adquirir conhecimentos em novas linguagens de programação para me manter atualizado e competitivo no mercado de trabalho.
 
 ### Minhas Soft Skills
 
 ### Produtivo, comunicativo, sociável, mente aberta, trabalho bem em equipe, priorizo a entrega das métas propostas e inovo sempre que possível.
 
-### Procuro continuamente adquirir conhecimentos em novas linguagens de programação para me manter atualizado e competitivo no mercado de trabalho.
+### 
 
 ### Busco uma oportunidade de migrar de carreira para a área de técnologia, para assim por em pratica todo o meu conhecimento e poder crescer junto com a empresa.
 
