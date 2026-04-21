@@ -1,6 +1,6 @@
 <img src="baner.webp" width = "325px" align = "right">
 
-# Olá, sejam bem vindos ao meu perfil do GitHub!
+# Olá, bom te ver!
 
 ### Minhas Soft Skills
 
