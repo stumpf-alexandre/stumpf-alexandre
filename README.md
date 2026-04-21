@@ -1,6 +1,6 @@
-<img src="baner.webp" width = "35%" align = "right">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Parkinsans&weight=500&pause=500&color=fff&size=30&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Alexandre+Stumpf+❤️;+Sou+Formado+Em+Alálise+e+Desenvolvimento+de+Sistemas+👩‍💻;+Atuo+como+Instrutora+de+Desenvolvimento+Web+FullStack👩‍💻;Sejam+Bem+Vindos!+😊)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Parkinsans&weight=500&pause=500&color=fff&size=30&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Alexandre+Stumpf+👋;+Sou+Formado+Em+Alálise+e+Desenvolvimento+de+Sistemas+👩‍💻;+Procuro+Continuamente+Adquirir+Conhecimentos+em+Novas+Linguagens+para+me+manter+Competitivo+no+Mercado+de+Trabalho📖;Sejam+Bem+Vindos!+😉)](https://git.io/typing-svg)
 
 ## Olá, bom te ver por aqui!
 ## Sou programador e adoro tecnologia. Procuro continuamente adquirir conhecimentos em novas linguagens de programação para me manter atualizado e competitivo no mercado de trabalho.
@@ -81,3 +81,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stumpf-alexandre/stumpf-alexandre/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/stumpf-alexandre/stumpf-alexandre/output/github-contribution-grid-snake.svg">
 </picture>
+
+#
+
+<img src="baner.webp" width = "65%" align = "center">
