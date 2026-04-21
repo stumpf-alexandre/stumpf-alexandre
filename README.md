@@ -2,7 +2,7 @@
 
 ## Olá, bom te ver por aqui!
 
-##Sou programador e adoro tecnologia. Procuro continuamente adquirir conhecimentos em novas linguagens de programação para me manter atualizado e competitivo no mercado de trabalho.
+## Sou programador e adoro tecnologia. Procuro continuamente adquirir conhecimentos em novas linguagens de programação para me manter atualizado e competitivo no mercado de trabalho.
 
 #
 
